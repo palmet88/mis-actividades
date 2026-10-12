@@ -1,0 +1,90 @@
+[
+    {
+        "id": 1,
+        "ciclo": "Cuatrimestre 1",
+        "titulo": "Caso Practico 1- Fundamentos de Investigación en Educación - Eduardo Vargas",
+        "estado": "pendiente",
+        "fecha_inicio": "2026-10-12",
+        "fecha_limite": "2026-10-15"
+    },
+    {
+        "id": 2,
+        "ciclo": "Cuatrimestre 1",
+        "titulo": "Caso Práctico - Liderazgo Integral y Creativo - Isabel Delgado",
+        "estado": "pendiente",
+        "fecha_inicio": "2026-10-15",
+        "fecha_limite": "2026-10-18"
+    },
+    {
+        "id": 3,
+        "ciclo": "Cuatrimestre 2",
+        "titulo": "Caso Practico 6 - Psicología del Desarrollo - Isabel Delgado",
+        "estado": "pendiente",
+        "fecha_inicio": "2026-10-18",
+        "fecha_limite": "2026-10-21"
+    },
+    {
+        "id": 4,
+        "ciclo": "Cuatrimestre 2",
+        "titulo": "Caso Práctico - Liderazgo Ético y Felicidad - Isabel Delgado",
+        "estado": "pendiente",
+        "fecha_inicio": "2026-10-21",
+        "fecha_limite": "2026-10-24"
+    },
+    {
+        "id": 5,
+        "ciclo": "Cuatrimestre 2",
+        "titulo": "Caso Práctico - Liderazgo Ético y Trascendente (Felicidad) - Rut Román",
+        "estado": "pendiente",
+        "fecha_inicio": "2026-10-24",
+        "fecha_limite": "2026-10-27"
+    },
+    {
+        "id": 6,
+        "ciclo": "Cuatrimestre 3",
+        "titulo": "Caso Práctico 8 - Tecnología y Educación - Luis Ricardo Navarro",
+        "estado": "pendiente",
+        "fecha_inicio": "2026-10-27",
+        "fecha_limite": "2026-10-30"
+    },
+    {
+        "id": 7,
+        "ciclo": "Cuatrimestre 3",
+        "titulo": "Caso Práctico 9 - Investigación Cualitativa en Educación - Carmen Osuna",
+        "estado": "pendiente",
+        "fecha_inicio": "2026-10-30",
+        "fecha_limite": "2026-11-02"
+    },
+    {
+        "id": 8,
+        "ciclo": "Cuatrimestre 3",
+        "titulo": "Caso Práctico 10 - Evaluación Educativa - Judith González",
+        "estado": "pendiente",
+        "fecha_inicio": "2026-11-02",
+        "fecha_limite": "2026-11-05"
+    },
+    {
+        "id": 9,
+        "ciclo": "Cuatrimestre 4",
+        "titulo": "Caso Práctico 11 - Educación Inclusiva y Diversidad - María Eugenia Vásquez",
+        "estado": "pendiente",
+        "fecha_inicio": "2026-11-05",
+        "fecha_limite": "2026-11-08"
+    },
+    {
+        "id": 10,
+        "ciclo": "Cuatrimestre 4",
+        "titulo": "Caso Práctico 12 - Ética en la Investigación Educativa - Luis Navarro",
+        "estado": "pendiente",
+        "fecha_inicio": "2026-11-08",
+        "fecha_limite": "2026-11-11"
+    },
+    {
+        "id": 11,
+        "ciclo": "Cuatrimestre 4",
+        "titulo": "Caso Práctico 13 - Seminario de Tesis - Carmen Osuna",
+        "estado": "pendiente",
+        "fecha_inicio": "2026-11-11",
+        "fecha_limite": "2026-11-14"
+    }
+]
